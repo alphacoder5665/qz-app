@@ -97,7 +97,7 @@
         "None of these"
       ],
       "correct": 1,
-      "explanation": "Python is a high-level, general-purpose programming language designed for code readability, with a syntax that emphasizes the use of significant whitespace.\n\n\n```\nname = \"John\"\nage = 56\n\nprint(f\"{name=}, {age=}\")\n```"
+      "explanation": "Python is a high-level, general-purpose programming language designed for code readability, with a syntax that emphasizes the use of significant whitespace.\n\n\n``` \nname = \"John\"\nage = 56\n\nprint(f\"{name=}, {age=}\")\n```"
     }
   ],
   "bash": [
